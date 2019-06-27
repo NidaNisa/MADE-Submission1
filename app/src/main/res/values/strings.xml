@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="masukkan_nama_film">Cari Film</string>
+    <string name="nama_movie">Nama Film</string>
+    <string name="cari">Cari</string>
+    <string name="title">Judul</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="date">Tanggal Rilis</string>
+</resources>
